@@ -17,14 +17,17 @@ Exploring themes such as motion design & 3D rendering.
 # WORK
 
 
-<img width="701" alt="Screenshot 2022-11-01 at 12 05 24" src="https://user-images.githubusercontent.com/117170712/199228753-aa1e152a-a88c-4959-a3de-45ada815475b.png">
 
-https://www.instagram.com/reel/Cj-9OnOg0oQ/?utm_source=ig_web_copy_link
+
+https://user-images.githubusercontent.com/117170712/199230860-ccbb8f68-d4ad-4d4e-96d5-d60e952395c8.mov
+
+
+
 
 # Known bugs
 
 - Poor hand-eye coordination 
-- Time management
+- Poor time management
 
 
 
